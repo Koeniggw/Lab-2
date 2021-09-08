@@ -21,7 +21,6 @@ class Main {
     double sum;
     sum = blue + brown + green + orange + red + yellow;
 
-
     System.out.println("Blue: " +blue);
     System.out.println("Brown: "+ brown);
     System.out.println("Green: " + green);
